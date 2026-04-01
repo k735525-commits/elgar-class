@@ -1,0 +1,9 @@
+# 複製此檔案為 .env.local，填入你的 Firebase 設定值
+# 在 Vercel 部署時，將這些值加入 Vercel 的 Environment Variables
+
+VITE_FIREBASE_API_KEY=你的_API_KEY
+VITE_FIREBASE_AUTH_DOMAIN=你的專案.firebaseapp.com
+VITE_FIREBASE_PROJECT_ID=你的專案ID
+VITE_FIREBASE_STORAGE_BUCKET=你的專案.appspot.com
+VITE_FIREBASE_MESSAGING_SENDER_ID=你的_SENDER_ID
+VITE_FIREBASE_APP_ID=你的_APP_ID
